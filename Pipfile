@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 django = "*"
 requests = "*"
+celery = "*"
+redis = "*"
+channels = "*"
+channels-redis = "*"
+tweepy = "*"
+environs = "*"
 
 [dev-packages]
 
